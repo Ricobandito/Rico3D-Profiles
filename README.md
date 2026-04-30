@@ -4,6 +4,8 @@ Welcome to **Rico3D**.
 
 This project provides **real-world tested 3D printing profiles**, calibration methods and structured tuning workflows.
 
+⚠️ This profile is actively being developed and improved based on real test results.
+
 ---
 
 ## 🚀 What you get
