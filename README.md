@@ -49,9 +49,11 @@ Rico3D focuses on:
 ## 📊 Current Progress
 
 ### PETG – SUNLU
-- Flow calibration (in progress)
-- Adaptive PA (in progress)
-- Cooling optimization (in progress)
+
+✔️ Initial profile available  
+✔️ Adaptive PA calibration included  
+
+➡️ [View Profile](Profiles/Snapmaker_U1/PETG_Sunlu_Profile.md)
 
 ---
 
