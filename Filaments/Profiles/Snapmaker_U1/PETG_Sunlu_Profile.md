@@ -10,18 +10,21 @@
 ## 🔧 Status
 ⚠️ Profile currently in progress.
 
-## ⚠️ Known Issues
+## ⚠️ Known Issue – Layer Adhesion
 
-### Layer Adhesion / Fusion
+Layer adhesion issues were observed beyond the first layer.
 
-Current issue:
-- Inconsistent layer bonding in certain areas
-- Especially visible at higher speeds / lower temps
+### Root Cause (suspected)
+Adaptive Pressure Advance causing under-extrusion in low flow regions.
 
-### Possible Causes
-- Temperature too low
-- Insufficient flow
-- Cooling too aggressive
+### Observation
+- First layer improved via Z-offset
+- Issue persisted in upper layers
+
+### Current Fix Strategy
+- Reducing base PA
+- Adjusting adaptive PA curve
+- Slightly increasing flow
 
 ### Current Testing
 
