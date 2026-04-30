@@ -10,6 +10,24 @@
 ## 🔧 Status
 ⚠️ Profile currently in progress.
 
+## ⚠️ Known Issues
+
+### Layer Adhesion / Fusion
+
+Current issue:
+- Inconsistent layer bonding in certain areas
+- Especially visible at higher speeds / lower temps
+
+### Possible Causes
+- Temperature too low
+- Insufficient flow
+- Cooling too aggressive
+
+### Current Testing
+
+- Increasing nozzle temperature
+- Adjusting flow ratio
+- Testing reduced fan speeds
 Initial calibration data available in:
 - Filaments/PETG/Sunlu/
 
