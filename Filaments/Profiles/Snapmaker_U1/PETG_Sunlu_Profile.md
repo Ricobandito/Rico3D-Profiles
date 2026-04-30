@@ -7,38 +7,41 @@
 
 ---
 
-## 🔧 Status
-⚠️ Profile currently in progress.
+## 📊 Included
+- Adaptive Pressure Advance testing
+- Flow calibration (in progress)
+
+---
 
 ## ⚠️ Known Issue – Layer Adhesion
 
 Layer adhesion issues were observed beyond the first layer.
 
-### Root Cause (suspected)
-Adaptive Pressure Advance causing under-extrusion in low flow regions.
-
 ### Observation
-- First layer improved via Z-offset
-- Issue persisted in upper layers
+- First layer improved with Z-offset adjustment
+- Issue reappeared from layer 2 onwards
 
-### Current Fix Strategy
-- Reducing base PA
-- Adjusting adaptive PA curve
-- Slightly increasing flow
+### Suspected Cause
+Adaptive Pressure Advance behavior in low volumetric flow regions may cause under-extrusion during critical bonding phases.
 
-### Current Testing
+### Current Approach
+- Reduce low-flow PA values
+- Validate bonding improvement
+- Maintain surface quality
 
-- Increasing nozzle temperature
-- Adjusting flow ratio
-- Testing reduced fan speeds
-Initial calibration data available in:
-- Filaments/PETG/Sunlu/
+See detailed analysis:  
+[Adaptive PA Table](../../Filaments/PETG/Sunlu/adaptive_PA_table.md)
 
 ---
 
-## 📊 Included
-- Adaptive Pressure Advance testing
-- Flow calibration (in progress)
+## 🔧 Status
+⚠️ Profile currently in progress.
+
+---
+
+### Current Focus
+- Validate layer adhesion from layer 2 upward
+- Optimize low-flow PA behavior
 
 ---
 
