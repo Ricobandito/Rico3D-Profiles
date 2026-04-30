@@ -56,8 +56,8 @@ Rico3D focuses on:
 ➡️ [View Profile](Profiles/Snapmaker_U1/PETG_Sunlu_Profile.md)
 
 📁 Additional calibration data:  
-- Filament notes  
-- Adaptive PA tests
+- [Filament notes](Filaments/PETG/Sunlu/notes.md)  
+- [Adaptive PA table](Filaments/PETG/Sunlu/adaptive_PA_table.md)
 ---
 
 ## ❤️ Support
