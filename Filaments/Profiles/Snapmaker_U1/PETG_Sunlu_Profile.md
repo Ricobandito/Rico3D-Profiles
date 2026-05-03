@@ -13,7 +13,8 @@
 
 ## 📥 Download
 
-👉 [Download Profile](SUNLU_PETG_U1_v0.1.orca.zip?raw=true)
+👉 [Download Profile](SUNLU_PETG_U1_v0.1.orca.zip)
+👉 [Download Profile](https://raw.githubusercontent.com/RicoBandito/Rico3D-Profiles/main/Filaments/Profiles/Snapmaker_U1/SUNLU_PETG_U1_v0.1.orca.zip)
 
 ---
 
