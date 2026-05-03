@@ -36,7 +36,7 @@ Rico3D focuses on:
 ## 🖨 Current Setup
 
 - **Printer:** Snapmaker U1  
-- **Slicer:** OrcaSlicer  
+- **Slicer:** Snapmaker Orca 
 
 ---
 
