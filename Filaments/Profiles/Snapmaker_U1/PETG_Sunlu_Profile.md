@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-👉 [Download Profile](SUNLU_PETG_U1_v0.1.orca.zip)
+👉 [Download Profile](../../Filaments/Profiles/Snapmaker_U1/SUNLU_PETG_U1_v0.1.orca.zip?raw=true)
 
 ---
 
