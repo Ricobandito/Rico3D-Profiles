@@ -2,9 +2,9 @@
 
 Welcome to **Rico3D**.
 
-This project provides **real-world tested 3D printing profiles**, calibration methods and structured tuning workflows.
+This project provides structured 3D printing profiles, calibration methods and reproducible tuning workflows based on real-world testing.
 
-⚠️ This profile is actively being developed and improved based on real test results.
+⚠️ Profiles and workflows are actively being developed and refined through continuous testing.
 
 ---
 
@@ -14,7 +14,7 @@ This project provides **real-world tested 3D printing profiles**, calibration me
 - Adaptive Pressure Advance calibration
 - Flow & first layer tuning methods
 - Printer-specific configurations
-- Practical mods and improvements
+- Practical mods and workflow improvements
 
 ---
 
@@ -27,24 +27,25 @@ Most profiles online are:
 
 Rico3D focuses on:
 
-- structured calibration workflows  
-- real test results  
-- reproducibility across setups  
+- structured calibration workflows
+- real test results
+- reproducibility across setups
+- transparent profile development
 
 ---
 
 ## 🖨 Current Setup
 
-- **Printer:** Snapmaker U1  
-- **Slicer:** Snapmaker Orca 
+- **Printer:** Snapmaker U1
+- **Slicer:** Snapmaker Orca
 
 ---
 
-## 📦 Structure
+## 📦 Repository Structure
 
-- `Filaments/` → Material-specific profiles  
-- `Printers/` → Printer-specific configs  
-- `Calibration/` → Tuning workflows  
+- `Filaments/` → Material-specific profiles
+- `Profiles/` → Printer-specific profile releases
+- `Calibration/` → Tuning workflows and methods
 
 ---
 
@@ -57,28 +58,28 @@ Rico3D focuses on:
 
 ➡️ [View Profile](Profiles/Snapmaker_U1/PETG_Sunlu_Profile.md)
 
-📁 Additional calibration data:  
-- [Filament notes](Filaments/PETG/Sunlu/notes.md)  
+📁 Additional calibration data:
+- [Filament notes](Filaments/PETG/Sunlu/notes.md)
 - [Adaptive PA table](Filaments/PETG/Sunlu/adaptive_PA_table.md)
+
 ---
 
 ## ❤️ Support
 
-If you want to support this project and get:
-- early access  
-- premium profiles  
-- direct help  
+If you want to support future profile development, testing and documentation:
 
-👉 Patreon (coming soon)
+👉 https://patreon.com/RicoDreiD
 
 ---
 
 ## 📸 Results
 
-(Images coming soon)
+Images, calibration comparisons and workflow examples will be added over time.
 
 ---
 
-## 📬 Contact
+## 📬 Platforms
 
-More platforms coming soon.
+GitHub and Patreon currently serve as the main project platforms.
+
+More platforms, documentation and profile releases will follow over time.
